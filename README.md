@@ -11,5 +11,5 @@ Could have added more information about him such as little bit of his biography.
 Adding javascript to an unordered list to add more functionality.
 
 # Deployment
-file:///E:/Red%20Snapper%20code/index.html
+https://redsnappertest.netlify.app/
  
